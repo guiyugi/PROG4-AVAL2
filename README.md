@@ -6,7 +6,7 @@ Este projeto visa criar um aplicativo de To-Do List utilizando Flutter, integrad
 
 ## Equipe de Desenvolvimento
 
-Somos estudantes do Bloco 6 de Computação da UESPI-PHB. Nossa equipe é composta por:
+Somos estudantes do Bloco 5 de Computação da UESPI-PHB. Nossa equipe é composta por:
 
 - **Nome 1** - Antonio Guilherme de Brito
 - **Nome 2** - Milena Andrade da Costa
