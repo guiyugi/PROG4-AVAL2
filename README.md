@@ -1,16 +1,20 @@
-# to_do_list
+# To-Do List com Integração ao Firebase Realtime Database em Flutter
 
-A new Flutter project.
+## Introdução
 
-## Getting Started
+Este projeto visa criar um aplicativo de To-Do List utilizando Flutter, integrado ao Firebase Realtime Database. O aplicativo permite que os usuários gerenciem suas tarefas em tempo real, com funcionalidades de adição, visualização, edição e exclusão de itens, assegurando que todas as alterações sejam refletidas instantaneamente.
 
-This project is a starting point for a Flutter application.
+## Equipe de Desenvolvimento
 
-A few resources to get you started if this is your first Flutter project:
+Somos estudantes do Bloco 6 de Computação da UESPI-PHB. Nossa equipe é composta por:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Nome 1** - Antonio Guilherme de Brito
+- **Nome 2** - Milena Andrade da Costa
+- **Nome 3** - Pedro Felipe Rodrigues Barros
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas
+
+- **Flutter**
+- **Dart**
+- **Firebase Realtime Database**
+- **Firebase Authentication**
